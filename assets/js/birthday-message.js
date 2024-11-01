@@ -1,0 +1,1 @@
+jQuery( document ).ready(function() { jQuery( "#reg_dob" ).datepicker(); });
